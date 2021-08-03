@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shezaan
-- 👀 I’m interested in SRE, DevOps, Automation, CI/CD
+- 👀 I’m interested in SRE, DevOps, Automation, CI/CD and Security
 - 🌱 I’m currently learning Golang, Rust
 - 💞️ I’m looking to collaborate on anything exciting
 - 📫 You can reach out to me here on GitHub
